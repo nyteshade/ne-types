@@ -1,0 +1,16 @@
+{
+  "presets": [
+    "flow",
+    ["env", {
+      "targets": { "node": "current" },
+      "modules": "commonjs",
+      "useBuiltIns": true,
+      "debug": false
+    }]
+  ],
+  "plugins": [
+    ["transform-class-properties", { "spec": true }],
+    "transform-runtime"
+  ],
+  "sourceMaps": "both"
+}

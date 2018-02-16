@@ -1,0 +1,29 @@
+{
+  "name": "@nyteshade/types",
+  "version": "1.0.0",
+  "description": "Shared functions that test and determine the type of an object under scrutiny. These tools rely on the use of Object.prototype.toString.call/apply",
+  "main": "dist",
+  "scripts": {
+    "test": "jest",
+    "build": "rm -rf dist/* ; babel -s --source-root src src/ -d dist/"
+  },
+  "keywords": [
+    "utility",
+    "types",
+    "typeOf",
+    "library"
+  ],
+  "repository": "https://github.com/nyteshade/ne-types.git",
+  "author": "Brielle Harrison",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-jest": "^22.2.2",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-flow": "^6.23.0",
+    "flow-bin": "^0.65.0",
+    "jest": "^22.3.0"
+  }
+}
