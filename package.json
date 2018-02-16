@@ -1,5 +1,5 @@
 {
-  "name": "@nyteshade/types",
+  "name": "ne-types",
   "version": "1.0.0",
   "description": "Shared functions that test and determine the type of an object under scrutiny. These tools rely on the use of Object.prototype.toString.call/apply",
   "main": "dist",
