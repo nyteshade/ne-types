@@ -1,4 +1,4 @@
-# ne-types ![Build Badge](https://travis-ci.org/nyteshade/ne-types.svg?branch=master)
+# ne-types ![Build Badge](https://travis-ci.org/nyteshade/ne-types.svg?branch=master) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) 
 
 ## Introduction
 
