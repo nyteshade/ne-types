@@ -1,4 +1,4 @@
-# ne-types
+# ne-types ![Build Badge](https://travis-ci.org/nyteshade/ne-types.svg?branch=master)
 
 ## Introduction
 
