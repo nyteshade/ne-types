@@ -1,4 +1,5 @@
-# ne-types ![Build Badge](https://travis-ci.org/nyteshade/ne-types.svg?branch=master) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) 
+# ne-types ![Build Badge](https://travis-ci.org/nyteshade/ne-types.svg?branch=master) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) ![package version](https://img.shields.io/badge/dynamic/json.svg?label=version&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fnyteshade%2Fne-types%2Fmaster%2Fpackage.json&query=version&colorB=1d7ebe)
+
 
 ## Introduction
 
