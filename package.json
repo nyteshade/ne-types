@@ -23,7 +23,7 @@
     "babel-plugin-transform-runtime": "^6.23.0",
     "babel-preset-env": "^1.6.1",
     "babel-preset-flow": "^6.23.0",
-    "flow-bin": "^0.74.0",
+    "flow-bin": "^0.75.0",
     "jest": "^22.3.0"
   }
 }
